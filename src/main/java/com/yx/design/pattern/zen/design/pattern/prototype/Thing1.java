@@ -1,4 +1,4 @@
-package com.yx.design.pattern.zen.design.pattern.prototype.pattern;
+package com.yx.design.pattern.zen.design.pattern.prototype;
 
 /**
  * 简单的可拷贝对象

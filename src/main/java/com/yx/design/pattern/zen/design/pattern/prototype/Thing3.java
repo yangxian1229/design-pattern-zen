@@ -1,4 +1,4 @@
-package com.yx.design.pattern.zen.design.pattern.prototype.pattern;
+package com.yx.design.pattern.zen.design.pattern.prototype;
 
 import java.util.ArrayList;
 
